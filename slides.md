@@ -28,5 +28,14 @@ class SomeService:
 
 
 ---
-src: ./pages/possible-solution.md
+src: ./pages/2-possible-solution.md
+---
+---
+src: ./pages/3-solution.md
+---
+---
+src: ./pages/4-basic-decorator.md
+---
+---
+src: ./pages/5-with-mock-decorator.md
 ---
