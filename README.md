@@ -7,3 +7,5 @@ To start the slide show:
 - visit http://localhost:3030
 
 Learn more about Slidev on [documentations](https://sli.dev/).
+
+> get the [PDF](./slides-export.pdf)
